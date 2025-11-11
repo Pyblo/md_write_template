@@ -1,0 +1,23 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# OS generated files
+._*
+.Spotlight-V100
+.Trashes
+
+# Backup files
+*~.*
+*.backup
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
